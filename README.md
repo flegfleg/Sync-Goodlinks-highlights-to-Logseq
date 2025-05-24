@@ -6,5 +6,7 @@ Apple Shortcut to send the highlights (and notes) of the currently selected [Goo
 
 ## Demo
 
+https://github.com/user-attachments/assets/614a8a78-1201-49ee-9867-dc823272382e
+
 
 
